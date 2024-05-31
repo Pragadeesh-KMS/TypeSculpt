@@ -61,9 +61,7 @@ TypeSculpt is a cutting-edge text-to-3D generation system that employs an adapti
 - Koushik Babu VS [koushikbabu90@gmail.com]
 - Adithya G [adi442002@gmail.com]
 
-## Citation
-
-If you use TypeSculpt in your research, please cite the following paper:
+## Acknowledgement
 
 ```bibtex
 @article{xu2024instantmesh,
@@ -74,7 +72,7 @@ If you use TypeSculpt in your research, please cite the following paper:
 }
 ```
 
-## Acknowledgement
+
 We would like to acknowledge the following projects and resources for their valuable contributions:
 
 - Zero123+
