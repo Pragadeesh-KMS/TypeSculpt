@@ -79,3 +79,4 @@ We would like to acknowledge the following projects and resources for their valu
 - One-2-3-45++
 - Instant3D
 - Instant NGP
+- InstantMesh
