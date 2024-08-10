@@ -10,6 +10,7 @@ from einops import rearrange, repeat
 import tempfile
 from tqdm import tqdm
 import imageio
+import pandas as pd
 
 from src.utils.train_util import instantiate_from_config
 from src.utils.camera_util import (FOV_to_intrinsics, get_zero123plus_input_cameras, get_circular_camera_poses)
